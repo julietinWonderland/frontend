@@ -9,7 +9,7 @@ export default function about() {
   <div class="card-header">
   วิทยาลัยเทคนิคเชียงใหม่ สาขาวิชาเทคโนโลยีสารสนเทศ
   </div>
-  <img src="public\img\card3.jpg" className="card-img-top custom-img" alt="Card Image" />
+  <img src="img\card3.jpg" className="card-img-top custom-img" alt="Card Image" />
   <div class="card-body">
     <h5 class="card-title">ประวัติของสาขาวิชาเทคโนโลยีสารสนเทศ</h5>
     <p class="card-text">

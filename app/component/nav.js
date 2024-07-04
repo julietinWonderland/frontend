@@ -9,7 +9,7 @@ export default function Nav() {
             <div className="col-12">
               <nav className="navbar navbar-expand-md">
               <a className="navbar-brand">
-        <img src="public\img\it-org.png" alt="" width="50" height="30" />CMTC</a>
+        <img src="http://it.cmtc.ac.th/web2017/photo/upload/2018/1533782801_7464-org.png" alt="" width="50" height="30" />CMTC</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                   <span className="navbar-toggler-icon"></span>
                 </button>

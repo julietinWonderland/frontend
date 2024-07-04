@@ -10,7 +10,7 @@ export default function Contact() {
       <hr></hr>
       <p class="fst-normal">Information Technology Of Chiangmai Technology College</p>
       <hr></hr>
-      <img src="/img/10.png" class="card-img-top "
+      <img src="" class="card-img-top "
                         alt="Card Image"></img>
         <Footer />
       </>

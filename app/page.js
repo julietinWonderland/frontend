@@ -33,7 +33,7 @@ export default function Home() {
         <div className="row justify-content-center">
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="/img/8.png" className="card-img-top custom-img" alt="Card Image" />
+              <img src="http://it.cmtc.ac.th/web2017/photo/plugin/gallery/2020/1602130858_3084-org.JPG" className="card-img-top custom-img" alt="Card Image" />
               <div className="card-body text-center">
                 <h5 className="card-title">วันเสาร์ที่ 4 ต.ค. 2563</h5>
                 <p className="card-text">
@@ -46,7 +46,7 @@ export default function Home() {
 
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="public\img\img-con-2.jpg" className="custom-img" alt="Card Image" />
+              <img src="http://it.cmtc.ac.th/web2017/photo/plugin/gallery/2020/1601783207_2153-org.JPG" className="custom-img" alt="Card Image" />
               <div className="card-body text-center">
                 <h5 className="card-title">วันเสาร์ที่ 3 ต.ค. 2563</h5>
                 <p className="card-text">
@@ -59,7 +59,7 @@ export default function Home() {
 
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="/img/9.png" className="card-img-top custom-img" alt="Card Image" />
+              <img src="http://it.cmtc.ac.th/web2017/photo/plugin/gallery/2020/1594366530_2285-org.jpg" className="card-img-top custom-img" alt="Card Image" />
               <div className="card-body text-center">
                 <h5 className="card-title">ประถมนิเทศ</h5>
                 <p className="card-text">
